@@ -25,7 +25,7 @@ https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=zh
 ```
 
 ```
-# 惡意 Cookie
+# 惡意 malicious Cookie 
 ```
 Tracking Cookie
 
