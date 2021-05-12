@@ -30,3 +30,20 @@ https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=zh
 Tracking Cookie
 
 ```
+# cookie實戰 課本
+```
+
+```
+
+## 
+```
+The location of Google Chrome's cookies in Windows 10
+Google Chrome stores all cookies in a single file called Cookies. 
+The file is located at the following path: 
+"C:\Users\Your User Name\AppData\Local\Google\Chrome\User Data\Default."
+
+https://www.digitalcitizen.life/cookies-location-windows-10/
+```
+```
+
+```
