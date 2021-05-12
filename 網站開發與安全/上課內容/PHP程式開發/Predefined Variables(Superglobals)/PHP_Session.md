@@ -84,8 +84,18 @@ Man-in-the-browser attack
 https://owasp.org/www-community/attacks/Session_hijacking_attack
 ```
 ```
-Session hijacking attack
+Session hijacking attack  連線劫持（Session hijacking）
 https://owasp.org/www-community/attacks/Session_hijacking_attack
+```
+```
+Session fixation
+https://owasp.org/www-community/attacks/Session_fixation
+
+Session fixation protection: 
+How to stop session fixation attacks
+https://www.computerweekly.com/answer/Session-fixation-protection-How-to-stop-session-fixation-attacks
+
+lab 實戰: webgoat
 ```
 
 # Session Management
