@@ -66,3 +66,29 @@ https://www.webtech.tw/info.php?tid=33
 PHP Session 使用範例說明
 https://www.wibibi.com/info.php?tid=135
 ```
+```
+https://www.w3schools.com/php/php_sessions.asp
+```
+
+# session attacks
+```
+The session token could be compromised in different ways; 
+
+the most common are:
+Predictable session token;
+Session Sniffing;
+Client-side attacks (XSS, malicious JavaScript Codes, Trojans, etc);
+Man-in-the-middle attack
+Man-in-the-browser attack
+
+https://owasp.org/www-community/attacks/Session_hijacking_attack
+```
+```
+Session hijacking attack
+https://owasp.org/www-community/attacks/Session_hijacking_attack
+```
+
+# Session Management
+```
+https://owasp.org/www-community/controls/
+```
