@@ -2,6 +2,72 @@
 ```
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019-essentials
 ```
+# 官方文件
+```
+https://docs.microsoft.com/en-us/documentation/
+
+Windows Server troubleshooting
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/welcome-windows-server
+
+Group Policy troubleshooting documentation for Windows Server
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/group-policy/group-policy-overview
+
+Windows Security troubleshooting documentation for Windows Server
+https://docs.microsoft.com/en-us/troubleshoot/windows-server/windows-security/windows-security-overview
+```
+## PowerShell Documentation
+```
+https://docs.microsoft.com/en-us/powershell/
+```
+## Windows cmd commands (280+ 指令)
+```
+Windows commands
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+```
+```
+List of Command Prompt Commands
+Complete list of CMD commands for Windows
+by Tim Fisher
+Updated on February 20, 2021
+https://www.lifewire.com/list-of-command-prompt-commands-4092302
+
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/color
+```
+```
+15 CMD Commands Every Windows User Should Know
+https://www.youtube.com/watch?v=TSZJIxkB2QU
+```
+```
+21 CMD Commands All Windows Users Should Know
+So you can have more control over your PC
+https://helpdeskgeek.com/help-desk/21-cmd-commands-all-windows-users-should-know/
+
+9. SYSTEMINFO: System Information
+
+```
+```
+Cmd commands under Windows
+This article lists the most important cmd commands under Windows.
+https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows
+```
+```
+An A-Z Index of Windows CMD commands.
+https://ss64.com/nt/
+```
+```
+CMD commands for the Windows command prompt
+https://www.ionos.com/digitalguide/server/know-how/windows-cmd-commands/
+
+pipe ==> CommandA | CommandB
+redirection ==> 
+Command > File (output in file)
+Command < File (input from file)
+
+CommandA & CommandB (the second command is run directly after the first)
+CommandA && CommandB (the second command is only run if the first was successful)
+Command A || CommandB (the second command is only run if the first was not successful)
+CommandA && CommandB || CommandC (the second command is only run if the first was successful, otherwise the third command is run)
+```
 ## Windows Server 2019管理證照班
 ```
 微軟6月將終止MCSA、MCSD、MCSE認證考試
