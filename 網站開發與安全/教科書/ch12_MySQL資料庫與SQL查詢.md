@@ -12,7 +12,11 @@
 ```
 
 ```
-
+# MySQL資料庫
+```
+MySQL Functions
+https://www.w3schools.com/sql/sql_ref_mysql.asp
+```
 # 12-3 SQL語法
 ```
 SQL語法
@@ -20,7 +24,14 @@ SQL語法
 ```
 ## SQL語法
 ```
-
+SQL == Structured Query Language == 結構查詢語言
+1.DDL – Data Definition Language
+2.DML – Data Manipulation Language
+3.DCL – Data Control Language
+4.TCL – Transaction Control Language
+```
+```
+https://www.w3schools.com/sql/
 ```
 
 # SELECT
