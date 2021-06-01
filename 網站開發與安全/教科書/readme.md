@@ -38,4 +38,10 @@ PART4　應用實例
 第19章 購物車
 第20章 網路相簿
 ```
+# PHP 官方文獻
+```
+https://www.php.net/manual/en/index.php
 
+PHP security官方文獻
+https://www.php.net/manual/en/security.php
+```
