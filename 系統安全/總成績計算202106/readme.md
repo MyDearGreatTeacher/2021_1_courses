@@ -8,9 +8,9 @@
 期末平時 ==> 1份報告[20%]        
 
 加分報告與平時分數: [至少完成2份測試報告,做越多分數越高]
-Sysinternals技術報告
-Powershell技術報告
-WINDOWs 常用指令測試報告
+Sysinternals技術測試報告
+Powershell技術測試報告
+Windows作業系統系統指令實戰報告
 Windows Server 滲透測試報告 
 
 繳交網址即將公布 ==> 繳交於崑山網路大學
